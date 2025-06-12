@@ -12,22 +12,22 @@ A modern, responsive blogging platform built with **Next.js 14**, **React**, and
 
 ## 🚀 **Features**
 
-- ✍️ **Write & Publish Blogs** – Create blog posts with a title, content, category, and optional image
-- 🔍 **Smart Search** – Search blogs by keyword or post ID with instant filtering
-- 📃 **Read Full Posts** – View blog post content on a dedicated page or modal
-- 🗑️ **Delete Posts** – Remove your blogs with one click, no page reload
-- 📚 **Paginated Browsing** – Explore all blogs across multiple pages
-- 🧭 **Persistent Navigation** – Navigate between Home, All Blogs, Your Blogs, and Contact
-- 💬 **Contact Form** – Reach out to the BlogSpace team via a responsive contact page
-- 📱 **Responsive Design** – Optimized for desktops, tablets, and mobile devices
-- 🎞️ **Smooth Animations** – Elegant transitions for a modern experience
+- ✍️ **Write & Publish Blogs** – Create blog posts with a title, content, category, and optional image  
+- 🔍 **Smart Search** – Search blogs by keyword or post ID with instant filtering  
+- 📃 **Read Full Posts** – View blog post content on a dedicated page or modal  
+- 🗑️ **Delete Posts** – Remove your blogs with one click, no page reload  
+- 📚 **Paginated Browsing** – Explore all blogs across multiple pages  
+- 🧭 **Persistent Navigation** – Navigate between Home, All Blogs, Your Blogs, and Contact  
+- 💬 **Contact Form** – Reach out to the BlogSpace team via a responsive contact page  
+- 📱 **Responsive Design** – Optimized for desktops, tablets, and mobile devices  
+- 🎞️ **Smooth Animations** – Elegant transitions for a modern experience  
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 | Category        | Tech                                                    |
-| --------------- | ------------------------------------------------------- |
+|----------------|----------------------------------------------------------|
 | Framework       | [Next.js 14 (App Router)](https://nextjs.org/docs)      |
 | UI Library      | React                                                   |
 | Styling         | [Tailwind CSS](https://tailwindcss.com)                 |
@@ -69,7 +69,7 @@ Edit
 Clone the repository:
 
 ```bash
-git clone <https://github.com/Syddhartha69/BlogSpace>
+git clone <repository-url>
 cd next-task-blog
 Install dependencies:
 
@@ -151,5 +151,4 @@ This project is licensed under the MIT License.
 💬 Support
 For support, open an issue on GitHub or contact the development team via the Contact page in the app.
 
-Made with ❤️ using Next.js, React, and Tailwind CSS
-```
+Made with 💙 using Next.js, React, and Tailwind CSS

@@ -65,7 +65,7 @@ src/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Syddhartha69/BlogSpace.git
-   cd next-task-blog
+   cd BlogSpace
    ```
 2. **Install dependencies:**
    ```bash
